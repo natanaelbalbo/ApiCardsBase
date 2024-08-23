@@ -1,0 +1,800 @@
+[{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc5a8"
+  },
+  "name": "Ancestor's Chosen",
+  "type": "Creature — Human Cleric",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc5ac"
+  },
+  "name": "Angel of Mercy",
+  "type": "Creature — Angel",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc5b0"
+  },
+  "name": "Angelic Blessing",
+  "type": "Sorcery",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc5b4"
+  },
+  "name": "Angelic Chorus",
+  "type": "Enchantment",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc5b7"
+  },
+  "name": "Angelic Wall",
+  "type": "Creature — Wall",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc5bb"
+  },
+  "name": "Aura of Silence",
+  "type": "Enchantment",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc5be"
+  },
+  "name": "Aven Cloudchaser",
+  "type": "Creature — Bird Soldier",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc5c2"
+  },
+  "name": "Ballista Squad",
+  "type": "Creature — Human Rebel",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc5c5"
+  },
+  "name": "Bandage natan",
+  "type": "Instant",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc5c8"
+  },
+  "name": "Beacon of Immortality",
+  "type": "Instant",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc5cb"
+  },
+  "name": "Benalish Knight",
+  "type": "Creature — Human Knight",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc5cf"
+  },
+  "name": "Cho-Manno, Revolutionary",
+  "type": "Legendary Creature — Human Rebel",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc5d2"
+  },
+  "name": "Condemn",
+  "type": "Instant",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc5d5"
+  },
+  "name": "Demystify",
+  "type": "Instant",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc5d8"
+  },
+  "name": "Field Marshal",
+  "type": "Creature — Human Soldier",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc5dc"
+  },
+  "name": "Ghost Warden",
+  "type": "Creature — Spirit",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc5df"
+  },
+  "name": "Glorious Anthem",
+  "type": "Enchantment",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc5e2"
+  },
+  "name": "Hail of Arrows",
+  "type": "Instant",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc5e5"
+  },
+  "name": "Heart of Light",
+  "type": "Enchantment — Aura",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc5e9"
+  },
+  "name": "High Ground",
+  "type": "Enchantment",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc5ec"
+  },
+  "name": "Holy Day",
+  "type": "Instant",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc5ef"
+  },
+  "name": "Holy Strength",
+  "type": "Enchantment — Aura",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc5f3"
+  },
+  "name": "Honor Guard",
+  "type": "Creature — Human Soldier",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc5f6"
+  },
+  "name": "Icatian Priest",
+  "type": "Creature — Human Cleric",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc5f9"
+  },
+  "name": "Kjeldoran Royal Guard",
+  "type": "Creature — Human Soldier",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc5fc"
+  },
+  "name": "Loxodon Mystic",
+  "type": "Creature — Elephant Cleric",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc5ff"
+  },
+  "name": "Loyal Sentry",
+  "type": "Creature — Human Soldier",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc602"
+  },
+  "name": "Luminesce",
+  "type": "Instant",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc605"
+  },
+  "name": "Mobilization",
+  "type": "Enchantment",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc609"
+  },
+  "name": "Nomad Mythmaker",
+  "type": "Creature — Human Nomad Cleric",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc60d"
+  },
+  "name": "Pacifism",
+  "type": "Enchantment — Aura",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc611"
+  },
+  "name": "Paladin en-Vec",
+  "type": "Creature — Human Knight",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc615"
+  },
+  "name": "Pariah",
+  "type": "Enchantment — Aura",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc619"
+  },
+  "name": "Reviving Dose",
+  "type": "Instant",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc61c"
+  },
+  "name": "Reya Dawnbringer",
+  "type": "Legendary Creature — Angel",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc620"
+  },
+  "name": "Righteousness",
+  "type": "Instant",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc623"
+  },
+  "name": "Rule of Law",
+  "type": "Enchantment",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc626"
+  },
+  "name": "Samite Healer",
+  "type": "Creature — Human Cleric",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc629"
+  },
+  "name": "Serra Angel",
+  "type": "Creature — Angel",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc62d"
+  },
+  "name": "Serra's Embrace",
+  "type": "Enchantment — Aura",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc631"
+  },
+  "name": "Skyhunter Patrol",
+  "type": "Creature — Cat Knight",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc635"
+  },
+  "name": "Skyhunter Prowler",
+  "type": "Creature — Cat Knight",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc639"
+  },
+  "name": "Skyhunter Skirmisher",
+  "type": "Creature — Cat Knight",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc63d"
+  },
+  "name": "Soul Warden",
+  "type": "Creature — Human Cleric",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc640"
+  },
+  "name": "Spirit Link",
+  "type": "Enchantment — Aura",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc644"
+  },
+  "name": "Spirit Weaver",
+  "type": "Creature — Human Wizard",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc647"
+  },
+  "name": "Starlight Invoker",
+  "type": "Creature — Human Cleric Mutant",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc64a"
+  },
+  "name": "Steadfast Guard",
+  "type": "Creature — Human Rebel",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc64e"
+  },
+  "name": "Story Circle",
+  "type": "Enchantment",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc651"
+  },
+  "name": "Suntail Hawk",
+  "type": "Creature — Bird",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc655"
+  },
+  "name": "Tempest of Light",
+  "type": "Instant",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc658"
+  },
+  "name": "Treasure Hunter",
+  "type": "Creature — Human",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc65b"
+  },
+  "name": "True Believer",
+  "type": "Creature — Human Cleric",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc65f"
+  },
+  "name": "Tundra Wolves",
+  "type": "Creature — Wolf",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc663"
+  },
+  "name": "Venerable Monk",
+  "type": "Creature — Human Monk Cleric",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc666"
+  },
+  "name": "Voice of All",
+  "type": "Creature — Angel",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc66a"
+  },
+  "name": "Wall of Swords",
+  "type": "Creature — Wall",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc66e"
+  },
+  "name": "Warrior's Honor",
+  "type": "Instant",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc671"
+  },
+  "name": "Wild Griffin",
+  "type": "Creature — Griffin",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc675"
+  },
+  "name": "Windborn Muse",
+  "type": "Creature — Spirit",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc679"
+  },
+  "name": "Wrath of God",
+  "type": "Sorcery",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc67c"
+  },
+  "name": "Youthful Knight",
+  "type": "Creature — Human Knight",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc680"
+  },
+  "name": "Animate Wall",
+  "type": "Enchantment — Aura",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc683"
+  },
+  "name": "Armageddon",
+  "type": "Sorcery",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc686"
+  },
+  "name": "Balance",
+  "type": "Sorcery",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc689"
+  },
+  "name": "Benalish Hero",
+  "type": "Creature — Human Soldier",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc68c"
+  },
+  "name": "Black Ward",
+  "type": "Enchantment — Aura",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc68f"
+  },
+  "name": "Blaze of Glory",
+  "type": "Instant",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc692"
+  },
+  "name": "Blessing",
+  "type": "Enchantment — Aura",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ba4527f3de68ccd62fc695"
+  },
+  "name": "Blue Ward",
+  "type": "Enchantment — Aura",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66be37c6221f6deb34f9df94"
+  },
+  "name": "Magic Card",
+  "type": "Spell",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c87fd09499ddedb5436ea4"
+  },
+  "name": "Mockingbird",
+  "type": "Creature - Bird Bard",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c880389499ddedb5436ea7"
+  },
+  "name": "Weathered Wayfarer",
+  "type": "Creature - Nomad Cleric",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c880619499ddedb5436eaa"
+  },
+  "name": "Phyrexian Metamorph",
+  "type": "Artifac Creature - Shapeshifter",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c8807d9499ddedb5436ead"
+  },
+  "name": "Esper Sentinel",
+  "type": "Artifac Creature - Human Soldier",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c880a99499ddedb5436eb0"
+  },
+  "name": "Orcish Bowmasters",
+  "type": "Creature - Orc Archer",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c880da9499ddedb5436eb3"
+  },
+  "name": "Azorius Signet",
+  "type": "Artifact",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c880ff9499ddedb5436eb6"
+  },
+  "name": "Mox Opal",
+  "type": "Legendery Artifact",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c881159499ddedb5436eb9"
+  },
+  "name": "Whir of Invention",
+  "type": "Instant",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c881259499ddedb5436ebc"
+  },
+  "name": "Fatal Push",
+  "type": "Instant",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c8813d9499ddedb5436ebf"
+  },
+  "name": "Force of Will",
+  "type": "Instant",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c881509499ddedb5436ec2"
+  },
+  "name": "Enlightened Tutor",
+  "type": "Instant",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c8817f9499ddedb5436ec5"
+  },
+  "name": "Mystic Remora",
+  "type": "Enchantment",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c8818d9499ddedb5436ec8"
+  },
+  "name": "Rhystic Study",
+  "type": "Enchantment",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c8819c9499ddedb5436ecb"
+  },
+  "name": "Smothering Tithe",
+  "type": "Enchantment",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c881a79499ddedb5436ece"
+  },
+  "name": "Dress Down",
+  "type": "Enchantment",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c881b09499ddedb5436ed1"
+  },
+  "name": "Urza's Saga",
+  "type": "Enchantment",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c881ba9499ddedb5436ed4"
+  },
+  "name": "Touch the Spirit Realm",
+  "type": "Enchantment",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c881cc9499ddedb5436ed7"
+  },
+  "name": "Spire of Industry",
+  "type": "Land",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c881d89499ddedb5436eda"
+  },
+  "name": "City of Brass",
+  "type": "Land",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c881f69499ddedb5436edd"
+  },
+  "name": "Cavern of Souls",
+  "type": "Land",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c8820f9499ddedb5436ee0"
+  },
+  "name": "Minamo, School at Water's Edge",
+  "type": "Land",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c882559499ddedb5436ee4"
+  },
+  "name": "Godless Shrine",
+  "type": "Exotic Orchard",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c882629499ddedb5436ee7"
+  },
+  "name": "Watery Grave",
+  "type": "Exotic Orchard",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c882869499ddedb5436eea"
+  },
+  "name": "Hallowed Fountain",
+  "type": "Land",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c882ba9499ddedb5436eed"
+  },
+  "name": "Tundra",
+  "type": "Land",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c883079499ddedb5436ef0"
+  },
+  "name": "Command Tower",
+  "type": "Land",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c883279499ddedb5436ef3"
+  },
+  "name": "Vault of Champions",
+  "type": "Land",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c8833d9499ddedb5436ef6"
+  },
+  "name": "Archway of Innovation",
+  "type": "Land",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c883659499ddedb5436ef9"
+  },
+  "name": "Talon Gates of Madara",
+  "type": "Land",
+  "__v": 0
+}]
