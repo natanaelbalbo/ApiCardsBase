@@ -94,6 +94,33 @@ class CardsController {
             return res.status(500).json({ message: 'Erro ao deletar card' });
         }
     }
+    
+    async createDeck(req: Request, res: Response) {
+        try {
+            const { commanderId, cardIds } = req.body;
+            const deck = await cardsService.createDeck(commanderId, cardIds);
+            res.status(201).json(deck);
+        } catch (error) {
+            console.error(error);
+            res.status(500).json({ message: 'Erro ao criar deck' });
+        }
+    }
+
+    async getDeck(req: Request, res: Response) {
+        try {
+            const deckId = req.params.id;
+            const deck = await cardsService.getDeck(deckId);
+
+            if (!deck) {
+                return res.status(404).json({ message: 'Deck não encontrado' });
+            }
+
+            return res.status(200).json(deck);
+        } catch (error) {
+            console.error(error);
+            return res.status(500).json({ message: 'Erro ao obter deck' });
+        }
+    }
 
 }
 

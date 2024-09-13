@@ -1,4 +1,6 @@
+import Card from '../schema/cards.schema';
 import cardsSchema from '../schema/cards.schema';
+import Deck, { IDeck } from '../schema/deck.schema';
 
 class CardsService {
     
@@ -51,6 +53,25 @@ class CardsService {
             console.error(error);
             throw new Error('Erro ao deletar card');
         }
+    }
+
+    async createDeck(commanderId: string, cardIds: string[]): Promise<IDeck> {
+        const commander = await Card.findById(commanderId);
+        if (!commander || commander.type !== 'Commander') {
+            throw new Error('Commander não encontrado ou tipo incorreto');
+        }
+
+        const cards = await Card.find({ _id: { $in: cardIds } });
+        if (cards.length !== 99) {
+            throw new Error('Número incorreto de cartas');
+        }
+
+        const deck = new Deck({ commanderId, cardIds });
+        return deck.save();
+    }
+
+    async getDeck(id: string): Promise<IDeck | null> {
+        return Deck.findById(id).populate('commanderId cardIds');
     }
 }
 
