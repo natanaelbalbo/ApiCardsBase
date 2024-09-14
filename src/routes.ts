@@ -14,6 +14,7 @@ routes.post('/cards-create', cardsController.create);
 
 routes.post('/decks', authenticateJWT, cardsController.createDeck);
 routes.get('/decks/:id', cardsController.getDeck);
+routes.put('/decks/:id', authenticateJWT, cardsController.updateDeck);
 
 routes.post('/cards-auth-create', authenticateJWT, cardsController.create);
 routes.put('/cards-auth-put/:id', authenticateJWT, cardsController.update);

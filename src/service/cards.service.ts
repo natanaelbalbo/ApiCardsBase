@@ -3,7 +3,7 @@ import cardsSchema from '../schema/cards.schema';
 import Deck, { IDeck } from '../schema/deck.schema';
 
 class CardsService {
-    
+
     async create(cardData: { name: string; type: string }) {
         try {
             const card = new cardsSchema(cardData);
@@ -55,23 +55,35 @@ class CardsService {
         }
     }
 
-    async createDeck(commanderId: string, cardIds: string[]): Promise<IDeck> {
+    async createDeck(commanderId: string, cardIds: string[], userId: string): Promise<IDeck> {
         const commander = await Card.findById(commanderId);
-        if (!commander || commander.type !== 'Commander') {
+        if (!commander || commander.type !== 'Legendary Creature — Human Rebel') {
             throw new Error('Commander não encontrado ou tipo incorreto');
         }
 
-        const cards = await Card.find({ _id: { $in: cardIds } });
-        if (cards.length !== 99) {
-            throw new Error('Número incorreto de cartas');
-        }
+        // const cards = await Card.find({ _id: { $in: cardIds } });
+        // if (cards.length !== 99) {
+            // throw new Error('Número incorreto de cartas. Um deck deve conter exatamente 99 cartas.');
+        // }
 
-        const deck = new Deck({ commanderId, cardIds });
+        const deck = new Deck({
+            commanderId,   
+            cardIds,       
+            userId         
+        });
+
         return deck.save();
     }
 
     async getDeck(id: string): Promise<IDeck | null> {
         return Deck.findById(id).populate('commanderId cardIds');
+    }
+
+    async updateDeck(deckId: string, commanderId: string, cardIds: string[]): Promise<IDeck | null> {
+        return Deck.findByIdAndUpdate(deckId, {
+            commanderId,
+            cardIds
+        }, { new: true });
     }
 }
 
